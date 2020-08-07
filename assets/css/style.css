@@ -1,4 +1,5 @@
-* {
+/* I had to lookup the "*" selector; it means reset all settings. */
+ * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
@@ -22,6 +23,8 @@ body {
 
 .header h1 .seo {
     color: #d9dcd6;
+    text-shadow: 1px 1px #FF0000;
+    /* I'm going to assume this color (#d9dcd6) is part of a company branding policy. But there is not enough contrast in the horiSEOn design to make the 'SEO' pop out of the rest of the company name. Just my opinion; I'd choose another color in the silver/gray family such as Gray. Another option, which I have shown here, is to use a text shadow to help the eye discriminate the "SEO" letters.*/ 
 }
 
 .header div {
