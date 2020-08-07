@@ -2,6 +2,8 @@ README by Doug Davidoff for Homework Week 1
 
 This was a pleasurable and useful exercise. It seemed very “real world” — not theoretical but rather ripped from the pages of the diary of a working junior coder. I liked this work.
 
+The page is found at: https://dougdavidoff.github.io/week1-homework/
+
 Main accomplishments:
 1. Add Myerweb CSS-reset css file to the head of the page.
 2. Created a simple one-word title for the page, namely the company’s name.
